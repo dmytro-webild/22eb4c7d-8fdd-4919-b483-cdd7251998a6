@@ -71,7 +71,7 @@ export default function LandingPage() {
       ]}
       slides={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/3d-interior-with-blank-picture-hanging-damask-wall_1048-12656.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/3d-interior-with-blank-picture-hanging-damask-wall_1048-12656.jpg?_wi=1",
           imageAlt: "Luxury indian restaurant dining hall",
         },
         {
@@ -101,7 +101,7 @@ export default function LandingPage() {
       title="Experience Excellence at Raj Utsava"
       description="Welcome to Raj Utsava Place And Restaurant. We specialize in crafting unforgettable dining experiences for families, birthdays, and special occasions."
       subdescription="Whether it's an intimate family dinner, a grand wedding celebration, or professional catering services, we bring passion to every plate and event."
-      imageSrc="http://img.b2bpic.net/free-photo/beauty-details-this-lovely-table_8353-9904.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/beauty-details-this-lovely-table_8353-9904.jpg?_wi=1"
       mediaAnimation="slide-up"
       icon={Utensils}
     />
@@ -121,25 +121,25 @@ export default function LandingPage() {
         {
           title: "Birthday Party",
           description: "Host your special milestones in style.",
-          imageSrc: "http://img.b2bpic.net/free-photo/3d-interior-with-blank-picture-hanging-damask-wall_1048-12656.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/3d-interior-with-blank-picture-hanging-damask-wall_1048-12656.jpg?_wi=2",
           imageAlt: "Wide view dining hall in classic design",
         },
         {
           title: "Wedding Hall",
           description: "Grand, beautifully decorated halls for big days.",
-          imageSrc: "http://img.b2bpic.net/free-photo/beauty-details-this-lovely-table_8353-9904.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/beauty-details-this-lovely-table_8353-9904.jpg?_wi=2",
           imageAlt: "Wide view dining hall in classic design",
         },
         {
           title: "Catering Service",
           description: "Bring our gourmet kitchen to your venue.",
-          imageSrc: "http://img.b2bpic.net/free-photo/gyoza-black-cup-with-sushi_1150-22648.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/gyoza-black-cup-with-sushi_1150-22648.jpg?_wi=1",
           imageAlt: "Wide view dining hall in classic design",
         },
         {
           title: "Family Events",
           description: "Dedicated spaces for perfect family gatherings.",
-          imageSrc: "http://img.b2bpic.net/free-photo/azerbaijani-dushbere-gurze-khingal-with-yogurt-tomato-sauce_114579-2901.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/azerbaijani-dushbere-gurze-khingal-with-yogurt-tomato-sauce_114579-2901.jpg?_wi=1",
           imageAlt: "Wide view dining hall in classic design",
         },
       ]}
@@ -159,13 +159,13 @@ export default function LandingPage() {
           id: "1",
           name: "Veg Momos",
           price: "$12",
-          imageSrc: "http://img.b2bpic.net/free-photo/gyoza-black-cup-with-sushi_1150-22648.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/gyoza-black-cup-with-sushi_1150-22648.jpg?_wi=2",
         },
         {
           id: "2",
           name: "Fried Momos",
           price: "$14",
-          imageSrc: "http://img.b2bpic.net/free-photo/azerbaijani-dushbere-gurze-khingal-with-yogurt-tomato-sauce_114579-2901.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/azerbaijani-dushbere-gurze-khingal-with-yogurt-tomato-sauce_114579-2901.jpg?_wi=2",
         },
         {
           id: "3",
